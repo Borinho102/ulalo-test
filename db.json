@@ -38,45 +38,5 @@
     "gender": "male",
     "email": "Lucio_Hettinger@annie.ca"
    
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis Schulist",
-    "firstname": "Leopoldo_Corkery",
-    "gender": "other",
-    "email": "Karley_Dach@jasper.info"
-    
-  },
-  {
-    "id": 7,
-    "name": "Kurtis Weissnat",
-    "firstname": "Elwyn.Skiles",
-    "gender": "male",
-    "email": "Telly.Hoeger@billy.biz"
-    
-  },
-  {
-    "id": 8,
-    "name": "Nicholas Runolfsdottir V",
-    "firstname": "Maxime_Nienow",
-    "gender": "male",
-    "email": "Sherwood@rosamond.me"
-    
-  },
-  {
-    "id": 9,
-    "name": "Glenna Reichert",
-    "firstname": "Delphine",
-    "gender": "female",
-    "email": "Chaim_McDermott@dana.io"
-    
-  },
-  {
-    "id": 10,
-    "name": "Clementina DuBuque",
-    "firstname": "Moriah.Stanton",
-    "gender": "other",
-    "email": "Rey.Padberg@karina.biz"
-   
   }
 ]
